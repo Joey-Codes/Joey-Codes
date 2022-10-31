@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Header](header.png)
 ## 🔭 I’m currently working on: 
 Stuff
 
