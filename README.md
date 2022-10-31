@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+## 🔭 I’m currently working on: 
+Stuff
+
+##  🌱 I’m currently learning:
+More stuff
+
+## 📫 How to reach me:
+You can't
+
+## 💬 Ask me about:
+Anything
+
+## ⚡ Fun fact: 
+There are 24 hours in a day
+
 <!--
 **Joey-Codes/Joey-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
