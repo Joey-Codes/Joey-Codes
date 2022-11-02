@@ -1,11 +1,13 @@
 ![Header](header.png)
-## About
+## :smiley: Info
+<img align="right" width="250" height="300" src="./space.gif">
+
 * Currently a college student
 * Reach me at jpw378@gmail.com
 * 🙀 Check out my website: [Joey Codes](joey-codes.github.io)
 * 💸 Get free money here: [Free Money](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
- # 🖥️ Stuff I use or am learning:
+ ## 🖥️ Stuff I use or am learning:
 
 ![](HTML.svg) ![](CSS.svg) ![](React.svg) ![](Java.svg) ![](JavaScript.svg) ![](Python.svg) ![](R.svg)
 
