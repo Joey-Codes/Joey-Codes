@@ -1,6 +1,6 @@
 ![Header](header.png)
 ## :smiley: Info
-<img align="right" width="20%" height="auto" src="./space.gif">
+<img align="right" width="25%" height="auto" src="./space.gif">
 
 * Currently a college student
 * Reach me at jpw378@gmail.com
