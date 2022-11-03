@@ -4,7 +4,7 @@
 
 * Currently a college student
 * Reach me at jpw378@gmail.com
-* 🙀 Check out my website: [Joey Codes](joey-codes.github.io)
+* 🙀 Check out my website: [Joey Codes](https://joey-codes.github.io/)
 * 💸 Get free money here: [Free Money](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
  ## 🖥️ Stuff I use or am learning:
