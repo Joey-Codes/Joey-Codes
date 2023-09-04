@@ -2,7 +2,7 @@
 ## :smiley: About Me
 <img align="right" width="25%" height="auto" src="./space.gif">
 
-* Currently a college student
+* Recent College Grad
 * Reach me at jpw378@gmail.com
 * 🙀 Check out my website: [Joey Codes](https://joey-codes.github.io/)
 * 💸 Get free money here: [Free Money](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
