@@ -1,10 +1,9 @@
-![Header](header.png)
 ## :smiley: About Me
 <img align="right" width="25%" height="auto" src="./space.gif">
 
 * Recent College Grad
 * Reach me at jpw378@gmail.com
-* 🙀 Check out my website: [Joey Codes](https://joey-codes.github.io/)
+* 🙀 Personal website: [Joey Codes](https://joeywang.dev)
 * 💸 Get free money here: [Free Money](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
  ## 🖥️ Stuff I use or am learning
