@@ -1,10 +1,7 @@
 ## :smiley: About Me
 <img align="right" width="25%" height="auto" src="./space.gif">
 
-* Recent College Grad
 * Reach me at jpw378@gmail.com
-* 🙀 Check out my personal website: [Link](https://joeywang.dev)
-* 💸 Get free money here: [Free Money](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
  ## 🖥️ Stuff I use or am learning
 
