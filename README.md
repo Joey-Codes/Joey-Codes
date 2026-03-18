@@ -1,13 +1,6 @@
 ## :smiley: About Me
-<img align="right" width="25%" height="auto" src="./space.gif">
-
-* Reach me at jpw378@gmail.com
-
- ## 🖥️ Stuff I use or am learning
-
-![](HTML.svg) ![](CSS.svg) ![](React.svg) ![](Java.svg) ![](JavaScript.svg) ![](Python.svg) ![](R.svg)
-
-![](vscode.svg) ![](githubpages.svg) ![](docker.svg) ![](adobe.svg)
+* Hi, I'm a full stack dev.
+* Feel free to reach me at jpw378@gmail.com
 
 
 ## ⚡ Stats
