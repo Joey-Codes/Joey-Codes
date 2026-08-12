@@ -5,7 +5,7 @@
 
 ## Latest
 * Recently launched PieceKeeper - a repertoire management and practice tracking tool for musicians
-* Out on web and soon to be mobile - [you can check it out here](https://getpiecekeeper.com/dashboard)
+* Out on web and soon to be mobile - [you can check it out here](https://getpiecekeeper.com)
 
 
 ![](https://komarev.com/ghpvc/?username=Joey-Codes&color=3000DD&style=for-the-badge)
